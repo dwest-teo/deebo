@@ -1,0 +1,26 @@
+{
+  "name": "deebo",
+  "version": "0.0.1",
+  "description": "bootstrap a new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "deebo": "./index.js"
+  },
+  "author": {
+    "name":  "Donny West",
+    "email": "donnywest@gmail.com",
+    "url":   "https://donnywest.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwest-teo/deebo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dwest-teo/deebo/issues"
+  },
+  "homepage": "https://github.com/dwest-teo/deebo#readme"
+}
